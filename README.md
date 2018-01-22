@@ -1,2 +1,1 @@
-Programação simples, executada de uma maneira diferente.
-
+Programação simples, mais quando executados se tem uma "mágica" Execute e veja.
